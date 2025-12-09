@@ -4,6 +4,7 @@ Progetto universitario di **Elettronica Digitale**.
 
 ## Descrizione
 Realizzazione di un radar tramite FPGA MAX 10, programmata in Verilog usando Quartus.  
+
 Il sistema utilizza il sensore ultrasonico **HC-SR04** per la misura delle distanze, con visualizzazione grafica su monitor tramite interfaccia **VGA**.  
 Le componenti meccaniche del supporto radar sono state realizzate con **stampa 3D**.
 
